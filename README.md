@@ -1,3 +1,4 @@
-# hello-world
-My first repository 
-I am defining my Portfolio subject for my Msc in NTU
+# PhD Research - Julio Alegria
+My repository to support all my research work
+State of the Art development and update
+First publication
